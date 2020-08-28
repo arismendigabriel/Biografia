@@ -1,0 +1,21 @@
+*{
+    background-color: silver;
+}
+
+.hello{
+    color: green;
+}
+
+#imagenes{
+    width: 50%;
+}
+
+ul{
+    display: flex;
+    margin-left: 100px;
+}
+
+li{
+    list-style: none;
+    margin-left: 10px;
+}
